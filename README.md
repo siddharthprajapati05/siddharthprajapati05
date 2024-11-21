@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @siddharthprajapati05  
+### 👋 Hi, I’m Siddharth Prajapati  
 
 - 👀 I’m interested in Full-Stack Development, Machine Learning, and building innovative tech projects.  
 - 🌱 I’m currently learning Full-Stack Development and exploring Machine Learning concepts.  
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/siddharth-prajapati-716457283/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="mailto:siddharthprajapati05@gmail.com" target="_blank">
+  <a href="mailto:prajapatisiddharth094@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" />
   </a>
 </p>
