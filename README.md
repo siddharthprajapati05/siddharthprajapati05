@@ -12,7 +12,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=siddharthprajapati05&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthprajapati05&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthprajapati05&langs_count=8&layout=compact&theme=tokyonight)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddharthprajapati05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
