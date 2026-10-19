@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:38bdf8&height=210&section=header&text=Siddharth%20Prajapati&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=760&lines=I+train+and+fine-tune+AI+models;I+build+AI-powered+applications;I+ship+full-stack+products+end+to+end;Passionate+about+ML%2C+GenAI+and+clean+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=100&color=38BDF8&center=true&vCenter=true&width=760&lines=I+train+and+fine-tune+AI+models;I+build+AI-powered+applications;I+ship+full-stack+products+end+to+end;Passionate+about+ML%2C+GenAI+and+clean+code" alt="Typing SVG" />
 </a>
 
 <br/>
